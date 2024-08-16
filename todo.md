@@ -1,0 +1,4 @@
+- [ ] get card displayed correctly
+- [ ] create filter and sorting components
+- [ ] create new posting button / modal
+- [ ] create navbar for looks
